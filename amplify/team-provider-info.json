@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-upskillingtracker-dev-34f4a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::407516329853:role/amplify-upskillingtracker-dev-34f4a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::407516329853:role/amplify-upskillingtracker-dev-34f4a-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-upskillingtracker-dev-34f4a-deployment",
+      "UnauthRoleName": "amplify-upskillingtracker-dev-34f4a-unauthRole",
+      "StackName": "amplify-upskillingtracker-dev-34f4a",
+      "StackId": "arn:aws:cloudformation:us-east-1:407516329853:stack/amplify-upskillingtracker-dev-34f4a/7b5b9cb0-491f-11ef-a885-0eb45e5c7d2d",
+      "AmplifyAppId": "dpavh87j1jiv3"
+    },
+    "categories": {
+      "auth": {
+        "upskillingtracker7c9468e7": {}
+      }
+    }
+  }
+}
